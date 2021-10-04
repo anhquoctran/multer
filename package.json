@@ -1,14 +1,15 @@
 {
-  "name": "multer",
-  "description": "Middleware for handling `multipart/form-data`.",
-  "version": "1.4.3",
+  "name": "multer-functions",
+  "description": "Middleware for handling `multipart/form-data` with Firebase Functions.",
+  "version": "0.0.1",
   "contributors": [
-    "Hage Yaapa <captain@hacksparrow.com> (http://www.hacksparrow.com)",
-    "Jaret Pfluger <https://github.com/jpfluger>",
-    "Linus Unnebäck <linus@folkdatorn.se>"
+    "Anh Quoc Tran <aquoc.hue@outlook.com>"
   ],
   "license": "MIT",
-  "repository": "expressjs/multer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anhquoctran/multer"
+  },
   "keywords": [
     "form",
     "post",
